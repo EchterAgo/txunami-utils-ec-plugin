@@ -1,0 +1,11 @@
+{
+    "display_name": "Txunami Utilities",
+    "version": "0.1",
+    "description": "Provides some helpers for txunami configuration",
+    "project_url": "https://github.com/EchterAgo/txunami-utils-ec-plugin/",
+    "minimum_ec_version": "4.2",
+    "package_name": "txunami-utils",
+    "available_for": [
+        "qt"
+    ]
+}
