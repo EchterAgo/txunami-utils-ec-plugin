@@ -12,7 +12,7 @@ Go to the coins tab, select the coins you want to use, right click them and sele
 
 ## Limitations
 
-* Wallet or hardware wallets are not supported. Only wallets that can export their private keys can be used. 
+* Wallet passwords or hardware wallets are not supported. Only wallets that can export their private keys can be used.
 
 ## Donations
 
